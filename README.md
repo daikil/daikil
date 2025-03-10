@@ -1,6 +1,7 @@
 # About me
 Hello, I'm Daiki
 
+![](https://www.codewars.com/users/daikil/badges/large)
 <!--
 **daikil/daikil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
